@@ -33,11 +33,27 @@ Below are videos demonstrating the functioning app.
 
 The following displays the process to run MySQL and the server:
 
+https://user-images.githubusercontent.com/113392613/202370262-9d82aa86-c40d-4771-9da1-9a33b0aab7f1.mp4
+
 The following video demonstrates GET routes for all categories, products, and tags:
+
+https://user-images.githubusercontent.com/113392613/202370305-e72f63cb-753c-4d32-9f20-e90585eed5a9.mp4
 
 The following video demonstrates GET routes for individual categories, products, and tags, searched by id:
 
-This last video demonstrates POST, PUT, and DELETE routes for categories, products, and tags.
+https://user-images.githubusercontent.com/113392613/202370334-6dd8c11a-d7d7-4deb-b9a2-4b397631ec85.mp4
+
+The video below demonstrates POST, PUT, and DELETE routes for categories:
+
+https://user-images.githubusercontent.com/113392613/202370471-2ee0e6e7-2f19-4e92-93a2-b30ac9743bf8.mp4
+
+The video below demonstrates POST, PUT, and DELETE routes for tags:
+
+https://user-images.githubusercontent.com/113392613/202370504-a2e68af4-dbe1-4717-94ba-f6c469bfd3ce.mp4
+
+The last video below demonstrates POST, PUT, and DELETE routes for products:
+
+https://user-images.githubusercontent.com/113392613/202370519-6feecd7b-6981-4152-b62b-fd41bd9b152d.mp4
 
 ## License
 Refer to license in repo or as below:
